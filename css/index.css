@@ -46,7 +46,7 @@ ul{
     background-color:#262936;
 }
 
-.section3 .col-4 .icons li {
+.section3 .col-md-4 .icons li {
     
     display: flex;
     width:40px;
@@ -55,7 +55,7 @@ ul{
     color:#009ad8;
     border-radius: 50%;
     transition: all 1s;
-}.section3 .col-4 .icons li:hover{
+}.section3 .col-md-4 .icons li:hover{
     background-color: #009ad8;
     color:white;
 }.item1,.item3{
